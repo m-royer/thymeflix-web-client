@@ -728,7 +728,7 @@ function setDefaultTitle () {
         pageTitleElement.innerHTML = '';
     }
 
-    document.title = 'ThymeFlix';
+    document.title = '🌿ThymeFlix';
 }
 
 function setTitle (title) {
@@ -754,7 +754,7 @@ function setTitle (title) {
         pageTitleElement.innerText = html || '';
     }
 
-    document.title = title || 'ThymeFlix';
+    document.title = title || '🌿ThymeFlix';
 }
 
 function setTransparentMenu (transparent) {
